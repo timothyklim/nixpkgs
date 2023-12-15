@@ -178,7 +178,7 @@
   {
     version = "8.9.1.23";
     minCudaVersion = "12.0";
-    maxCudaVersion = "12.1";
+    maxCudaVersion = "12.2";
     url = "https://developer.download.nvidia.com/compute/cudnn/redist/cudnn/linux-x86_64/cudnn-linux-x86_64-8.9.1.23_cuda12-archive.tar.xz";
     hash = "sha256-NRY8XFQr4MURc4sn4lI1GTy+7cXg4AbkSxzerxki6D4=";
   }
